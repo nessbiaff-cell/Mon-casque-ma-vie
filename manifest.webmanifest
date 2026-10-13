@@ -1,0 +1,25 @@
+{
+  "name": "Mon Casque, Ma Vie",
+  "short_name": "Mon Casque",
+  "description": "Pourquoi porter le casque, comment le choisir, et comment me contacter.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1B4D3E",
+  "theme_color": "#1B4D3E",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
